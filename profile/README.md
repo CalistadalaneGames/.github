@@ -1,6 +1,6 @@
-# Home of the Dungine game engine
-
 <div align="center">
+
+# Home of the Dungine game engine
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CalistadalaneGames/Dungine/blob/main/.github/Logo/Dungine-GitHub-256x256.png">
