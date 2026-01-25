@@ -8,6 +8,6 @@
     <img alt="Fallback image description" src="https://github.com/CalistadalaneGames/Dungine/blob/main/.github/Logo/Dungine-GitHub-256x256.png">
   </picture>
 
-[Dungine](https://github.com/CalistadalaneGames/Dungine) | [Dungine Studio](https://github.com/CalistadalaneGames/DungineStudio) | [Dungeons](https://github.com/CalistadalaneGames/Dungeons)
+[Dungine](https://github.com/CalistadalaneGames/Dungine)&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;[Dungine Studio](https://github.com/CalistadalaneGames/DungineStudio)&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;[Dungeons](https://github.com/CalistadalaneGames/Dungeons)
 
 </div>
