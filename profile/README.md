@@ -1,5 +1,3 @@
-# Calistadalane Games
-
 <div align="center">
 
   <picture>
